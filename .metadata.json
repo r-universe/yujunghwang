@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bndovb",
+    "oncran": true
+  },
+  {
+    "package": "factormodel",
+    "oncran": true
+  }
+]
