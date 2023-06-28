@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bndovb"]
 	path = bndovb
 	url = https://github.com/yujunghwang/bndovb
-	shallow = true
-	registered = true
 [submodule "factormodel"]
 	path = factormodel
 	url = https://github.com/yujunghwang/factormodel
-	shallow = true
-	registered = true
